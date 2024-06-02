@@ -39,7 +39,7 @@ This project simulates a whale's sound environment and includes an interactive s
 ## Design Decisions
 - **Interactive Sound Control**: The position of the mouse controls the frequency, timbre, and volume of the whale sounds, providing an intuitive way to explore different sound characteristics.
 - **Sonar Map Visualization**: Holding the 's' key activates a sonar map that visually represents the distance to the "whale", enhancing the interactive experience.
-- **Environmental Effects**: The environment simulates being underwater with changing light and colors based on depth, providing a more immersive experience.
+- **Environmental Effects**: Using 3D graphics and lighting, the environment simulates being underwater with changing light and colors based on depth, providing a more immersive experience.
 
 ## Process
 The hardest part was implementing the sonar map and synchronizing the sound parameters with the mouse position. Understanding how to manipulate sound properties in Processing was crucial. Most solutions were derived from Processing documentation and online resources.
