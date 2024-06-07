@@ -44,3 +44,11 @@ This project simulates a whale's sound environment and includes an interactive s
 ## Process
 The hardest part was implementing the sonar map and synchronizing the sound parameters with the mouse position. Understanding how to manipulate sound properties in Processing was crucial. Most solutions were derived from Processing documentation and online resources.
 
+## Authorship
+A code project by Wong Jo-Hann
+
+23/24 Computational Practices: Sound and Image Processing
+
+Creative Computing BSc class
+
+UAL CCI University Of the Arts London
