@@ -1,5 +1,5 @@
 # Whale Sound and Sonar Simulation
-Note: Best with earphones!
+Note: Best with earphones and a dimly lit room!
 
 ## Description
 This project simulates a whale's sound environment and includes an interactive sonar map. Users can move their mouse around to adjust the frequency, timbre, and volume of whale sounds. Holding the 's' key displays a sonar map and shows the distance to a "whale".
